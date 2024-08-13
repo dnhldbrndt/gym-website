@@ -9,7 +9,7 @@ function Header() {
             <p className="details"> Build Your Body and Fintness With Professional Touch</p>
             <div className="header-btns">
                 <a href="#" className="header-btn"> Join Us</a>
-                </div>
+            </div>
         </div>
     </div>
   )

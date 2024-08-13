@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Featurebox() {
+function Featurebox(props) {
   return (
     <div className="a-box">
         <div class="a-b-img">
